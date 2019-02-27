@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:id="@+id/Settingid"
+        app:showAsAction="never"
+        android:title="Setting"
+
+
+
+        />
+    <item
+        android:id="@+id/feedbackid"
+        app:showAsAction="always"
+        android:title="Feedback"
+        android:icon="@drawable/ic_feedback_black_24dp"
+
+        />
+    <item
+        android:id="@+id/aboutid"
+        app:showAsAction="never"
+        android:title="About Us"
+
+
+        />
+
+</menu>
